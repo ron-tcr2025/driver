@@ -1,6 +1,10 @@
 # RouteWISELY Driver Map
 
+![Version](https://img.shields.io/badge/version-4.75-blue)
+
 A driver-first Google Maps app for field navigation — fast, mobile-friendly, and easy to deploy on GitHub Pages.
+
+**Current Version:** 4.75
 
 ## Quick Start
 
