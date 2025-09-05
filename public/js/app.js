@@ -150,7 +150,7 @@ function handlePosition(pos) {
 
 (async () => {
   populateRoutePicker();
-  const API_KEY = "__API_KEY__"; // replaced at build by GitHub Actions
+  const API_KEY = "AIzaSyAB7r3Tv3oHL18dm_BKtH6F9OtIXzJhVCo"; // replaced at build by GitHub Actions
   await loadGoogleMaps(API_KEY, RW4.MAP_ID);
   map = new google.maps.Map(document.getElementById('map'), {
     center: currentRoute.center,
