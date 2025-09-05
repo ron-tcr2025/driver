@@ -1,5 +1,5 @@
 window.RW4 = {
-  MAP_ID: "a271e349a0eac829ce3ed843",
+  MAP_ID: "__MAP_ID__",
   ROUTES: [
     { id: "grafton", name: "Grafton, MA",
       url: "https://storage.googleapis.com/routewisely_geojson/grafton_ma.geojson",
